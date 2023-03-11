@@ -1,3 +1,3 @@
 # projetburger
 
-<img src=""/>
+<img src="./images/presentation." />
